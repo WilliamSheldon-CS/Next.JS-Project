@@ -32,10 +32,10 @@ export default function Home() {
   const GithubInfo = () => (
     <p>
       View this project on GitHub:{" "}
-      <a href="https://github.com/yourusername/your-repo" target="_blank">
+      <a href="https://github.com/WilliamSheldon-CS/Next.JS-Project" target="_blank">
         GitHub Repository
       </a>
-      . For my final project, I’m interested in ________ and plan to showcase ________.
+      . For my final project, I’m interested in making a webgame and plan to showcase an image unscrambling game.
     </p>
   );
 
