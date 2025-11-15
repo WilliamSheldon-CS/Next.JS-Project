@@ -1,0 +1,14 @@
+{
+  "name": "nextjs-assignment",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3064",
+    "build": "next build",
+    "start": "next start -p 3064"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
